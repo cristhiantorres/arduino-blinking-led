@@ -1,0 +1,12 @@
+{
+  "name": "arduino-blinking-led",
+  "version": "1.0.0",
+  "description": "Blinking led with Johnny-Five package",
+  "main": "index.js",
+  "author": "Cristhian Torres",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "johnny-five": "^1.3.0"
+  }
+}
